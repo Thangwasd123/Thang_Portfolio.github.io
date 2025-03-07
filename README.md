@@ -106,7 +106,7 @@
         • Enhanced inventory management through predictive analytics
       </p>
       <p align="center">
-=        <a href="./Enigma's%20Hackathon%20-%20IDL%20Logistics.md" target="_blank">
+        <a href="./Enigma's%20Hackathon%20-%20IDL%20Logistics.md" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Project"/>
         </a>         
         </a>
