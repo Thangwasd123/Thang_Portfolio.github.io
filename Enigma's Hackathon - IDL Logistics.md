@@ -101,7 +101,7 @@ Final verdict, the dataset is riddled with outliers, and we deicided to trim agr
 - ARIMA parameter tuning, train and test
 
   **We began with the lag plot**
-  <img src="IDL%20-%20Lag%20Plot.png" alt="Lag Plot">
+  <img src="IDL%20-%20ARIMA%20Lag%20Plot.png" alt="Lag Plot">
 
   **Then proceed to the ACF plot**
   <img src="IDL%20-%20ARIMA%20ACF%20Plot.png" alt="ACF Plot">
