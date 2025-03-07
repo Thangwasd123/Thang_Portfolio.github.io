@@ -15,7 +15,7 @@
 
 <h4>🔥 Life Beyond the Data</h4>
 
-<img src="Mallorca Gif.gif" width="200" height="auto" align="right" style="margin-left: 10px; margin-bottom: 10px;">
+<img src="Mallorca Gif.gif" width="150" height="auto" align="right" style="margin-left: 10px; margin-bottom: 10px;">
 
 <p>When I'm not wrangling datasets or building models, you'll find me embracing the quintessential tech bro lifestyle with these obsessions:</p>
 
