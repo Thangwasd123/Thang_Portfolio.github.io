@@ -6,9 +6,16 @@
 ## 📊 Data Science & Data Engineering Portfolio
 
 > "To create something, anything for a living is a blessing."
+<p>
+<p>I'm a Data Science and Engineering Master's student based in Rotterdam, Netherlands, with a passion for building scalable data solutions. My expertise spans predictive modeling, cloud architecture, and translating complex data into business value. I'm always busy and curious for new projects and how I can keep on learning and creating cool stuffs!</p>
 
-I'm a Data Science and Engineering Master's student based in Rotterdam, Netherlands, with a passion for building scalable data solutions. My expertise spans predictive modeling, cloud architecture, and translating complex data into business value.
+<p>Aside from Data Science, I also am guilty of the classic Stem bro hobbies, namely:
+<li>Bouldering, I'm a huge fan of deep water soloing. Always looking for a climbing mate.</li>
+<li>Running, failed to run in NN Roterdam Marathon 2025 due to an injury, will retry this in 2026.</li>
+<li>Liftiing some heavy ahh weight.</li>
+<li>Building Gunpla and playing Hideo Kojima's games.</li>
 
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thangwasd123&layout=compact&theme=radical" alt="Top Languages" />
 </p>
