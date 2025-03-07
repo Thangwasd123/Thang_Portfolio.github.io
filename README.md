@@ -17,7 +17,7 @@
 
 <img src="Mallorca Gif.gif" width="150" height="auto" align="right" style="margin-left: 10px; margin-bottom: 10px;">
 
-<p><b>When I'm not wrangling datasets or building models, you'll find me embracing the quintessential tech bro lifestyle 😤.</p>
+<p>When I'm not wrangling datasets or building models, you'll find me embracing the quintessential tech bro lifestyle 😤.</p>
 
 <li>🧗‍♂️ <b>Conquering Gravity</b> - Addicted to bouldering with a particular weakness for deep water soloing. Nothing beats the rush of climbing sea cliffs with only the ocean below. Always hunting for fellow climbers brave enough to join.</li>
 <li>🏃‍♂️ <b>Chasing Horizons</b> - Avid runner with battle scars to prove it. Got sidelined from the 2025 NN Rotterdam Marathon, but already plotting my comeback for 2026. The road always calls back.</li>
