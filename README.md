@@ -194,6 +194,7 @@
 
 <p align="center">
   <p><i>💡 Looking for data science collaboration or have a project in mind? Let's talk!</i></p>
+  <br>
   <p><i>Built on 🌎 with ☕</i></p>
 </p>
 
