@@ -107,21 +107,23 @@ Final verdict, the dataset is riddled with outliers, and we deicided to trim agr
   <img src="IDL%20-%20ARIMA%20ACF%20Plot.png" alt="ACF Plot">
   
   The team decided that the best order of (p,d,q) will be (80,1,40)
-  
   We decided to predict on the dataset with a train/test split of 80/20.
+
+  <img src="Final%20IDL%20predictions%20fit.png" alt="IDL predictions">
 
 ## 📈 Results & Impact
 
 - The model had a really close RMSE of only 16%, this is really impressive given that we only had less than 2 years of data and had interpolate 4 months.
-- We are still awaiting on IDL's feedback on this project
+- We are still awaiting on IDL's feedback on this project.
 
 ## 🔍 Technical Details
 
 ### Technologies Used
-- Python
+- Python, SQL
 - ARIMA for time series forecasting
 - Random Walk Model
 - Seaborn, Matplotlib & Hex built-in plotting tool
+  
 
 ## 👥 Team
 
@@ -131,9 +133,11 @@ Final verdict, the dataset is riddled with outliers, and we deicided to trim agr
 ## 🔮 Future Improvements
 
 - Ideas for enhacing the model:
-
-- Additional approach that could have improved the analysis:
-
+   - Conduct Time series decomposition, and running ADF test to ensure that our dataset has acchieved stationarity before actually performing predictions.
+   - Conduct PACF and ACF properly, which will inform us more over our pdq selection. As 80, 1, 40 seemed really high for a model.
+   - We could have used SARIMA, which might given us even better metrics in this scenario.
+   - I will revisit this project in the future to see if there's a better method to do this.
+- Additionally, 
 ---
 
 *This project was completed as part of the Enigma Hackathon in [Feb/2025]*
