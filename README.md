@@ -16,7 +16,6 @@
 
 <img src="Mallorca Gif.gif" width="300" height="auto" align="right">
 
-<p>
 <h4>🔥 Life Beyond the Data</h4>
 
 <div style="display: flex; align-items: flex-start;">
