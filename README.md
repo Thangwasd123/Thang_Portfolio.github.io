@@ -12,7 +12,7 @@
 <p>
 <h4>🔥 Life Beyond the Data</h4>
 
-When I'm not wrangling datasets or building models, you'll find me embracing the quintessential tech bro lifestyle with these obsessions:
+When I'm not wrangling datasets or building models, you'll find me fallen victim to the tech bro lifestyle with these obsessions:
 
 <li>🧗‍♂️ <b>Conquering Gravity</b> - Addicted to bouldering with a particular weakness for deep water soloing. Nothing beats the rush of climbing sea cliffs with only the ocean below. Always hunting for fellow climbers brave enough to join.</li>
 
