@@ -33,11 +33,26 @@ When I'm not wrangling datasets or building models, you'll find me embracing the
 <summary><b>Academic Qualifications</b></summary>
 <br>
 
-| Program | Institution | Period | Highlights |
-| ------- | ----------- | ------ | ---------- |
-| Pre-Master Data Science and Society | Tilburg University | Jan 2025 - Present | • Hackathon Masters: Health Tech<br>• Enigma's Hackathon: Logistics demand prediction |
-| Bachelor of Arts in Communication | Han University of Applied Science | Sep 2018 - July 2022 | • Honor Scholarship Recipient |
-
+<table>
+  <tr>
+    <th>Program</th>
+    <th>Institution</th>
+    <th>Period</th>
+    <th>Highlights</th>
+  </tr>
+  <tr>
+    <td>Pre-Master Data Science and Society</td>
+    <td>Tilburg University</td>
+    <td>Jan 2025 - Present</td>
+    <td>• Hackathon Masters: Health Tech<br>• Enigma's Hackathon: Logistics demand prediction</td>
+  </tr>
+  <tr>
+    <td>Bachelor of Arts in Communication</td>
+    <td>Han University of Applied Science</td>
+    <td>Sep 2018 - July 2022</td>
+    <td>• Honor Scholarship Recipient</td>
+  </tr>
+</table>
 </details>
 
 ## 💼 Professional Experience
