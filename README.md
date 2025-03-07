@@ -193,8 +193,8 @@
 ---
 
 <p align="center">
-  <i>💡 Looking for data science collaboration or have a project in mind? Let's talk!</i>
-  <i>Built on 🌎 with ☕</i>
+  <p><i>💡 Looking for data science collaboration or have a project in mind? Let's talk!</i></p>
+  <p><i>Built on 🌎 with ☕</i></p>
 </p>
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Thangwasd123.Thangwasd123)
