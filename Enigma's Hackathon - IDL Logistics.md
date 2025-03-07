@@ -98,50 +98,42 @@ Final verdict, the dataset is riddled with outliers, and we deicided to trim agr
   <img src="IDL%20-%20Random%20Walk%20Model.png" alt="Random Walk Model">
   **-> The model provided an RMSE of 1039.05**
   
-- ARIMA parameter tuning
+- ARIMA parameter tuning, train and test
+
+  **We began with the lag plot**
+  <img src="IDL%20-%20Lag%20Plot.png" alt="Lag Plot">
+
+  **Then proceed to the ACF plot**
+  <img src="IDL%20-%20ARIMA%20ACF%20Plot.png" alt="ACF Plot">
   
+  The team decided that the best order of (p,d,q) will be (80,1,40)
   
-- Validation methodology
-- Comparison with baseline models
+  We decided to predict on the dataset with a train/test split of 80/20.
 
 ## 📈 Results & Impact
 
-- [Quantitative results - accuracy metrics, performance improvements]
-- [Business impact - cost savings, efficiency gains]
-- [Feedback from IDL Logistics]
+- The model had a really close RMSE of only 16%, this is really impressive given that we only had less than 2 years of data and had interpolate 4 months.
+- We are still awaiting on IDL's feedback on this project
 
 ## 🔍 Technical Details
 
 ### Technologies Used
 - Python
 - ARIMA for time series forecasting
-- [Other libraries/frameworks - add details]
-- [Visualization tools used]
-
-### Code Snippets
-
-```python
-# Add a key code snippet here that demonstrates your approach
-# For example, your ARIMA model implementation or data preprocessing
-```
+- Random Walk Model
+- Seaborn, Matplotlib & Hex built-in plotting tool
 
 ## 👥 Team
 
-- [Your name and role]
-- [Team members - if applicable]
+- Me - Thang Le - Machine Learning Engineer
+- Team member: Yash - Data Engineer, Yashar - Data Scientist
 
 ## 🔮 Future Improvements
 
-- [Ideas for enhancing the model]
-- [Additional features that could be implemented]
-- [Potential applications to other business areas]
+- Ideas for enhacing the model:
 
-## 📚 Resources
-
-- [Links to papers or resources that informed your approach]
-- [Documentation for key technologies used]
-- [Other related projects or inspirations]
+- Additional approach that could have improved the analysis:
 
 ---
 
-*This project was completed as part of the Enigma Hackathon in [month/year]*
+*This project was completed as part of the Enigma Hackathon in [Feb/2025]*
