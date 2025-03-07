@@ -23,6 +23,7 @@
 <li>🏃‍♂️ <b>Chasing Horizons</b> - Avid runner with battle scars to prove it. Got sidelined from the 2025 NN Rotterdam Marathon, but already plotting my comeback for 2026. The road always calls back.</li>
 <li>💪 <b>Iron Therapy</b> - Dedicated to lifting weights that make most people question my sanity. The heavier, the better. There's no problem that can't be solved with a proper back session.</li>
 <li>🎮 <b>Mechanical & Digital Art</b> - Meticulous Gunpla builder by night and devoted Hideo Kojima universe explorer. Because sometimes the best way to unwind from complex algorithms is with equally complex narrative mind-bends.</li>
+<li>🚣 <b>Rowing</b> - This is a recently picked-up hobby, I will share here more soon.</li>
 
 <h3> 🎓 Education</h3>
 
@@ -58,7 +59,7 @@
 <summary><b>Data Science/Data Engineer | The Brand Lab B.V.</b> (Aug 2023 - Present)</summary>
 <br>
 
-<li> 🏗️ Architected ETL pipelines using AWS (Lambda, RDS, S3) and GCP, achieving <b>100% faster</b> data processing</li>
+<li>🏗️ Architected ETL pipelines using AWS (Lambda, RDS, S3) and GCP, achieving <b>100% faster</b> data processing</li>
 <li>📦 Built automated inventory management system with <b>100% time efficiency</b> gains</li>
 <li>📊 Created analytics dashboards using Hex for sales ranking and marketplace performance insights</li>
 <li>🖼️ Optimized image processing pipeline using AWS S3 Boto API, reducing processing time by <b>100%</b></li>
