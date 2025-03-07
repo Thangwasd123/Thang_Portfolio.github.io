@@ -7,22 +7,28 @@ This project was developed during the Enigma Hackathon, where our team created a
 <img src="IDL%20Logo.png" alt="IDL Logo" width="300">
 IDL Logistics is a logistics forwarder company with over 20 years of experiences. Being a logistics forwarder, meaning their business involve with a lot of fulfillment works. This can range anything from just a small one box order, to a big multi pallets, multi boxes orders. The human resources planning therefore is incredibly important to IDL Logistics operations. 
 
-The challenge therefore was to create a prediction pipeline that forecasts how many orders IDL Logistics will receive in a given period.
+The challenge therefore was to create a prediction pipeline that forecasts how many orders IDL Logistics will receive in a given period. We were given 12 hours to work on this project.
+
+The dataset contains:
+- 2 years of data from July 2022 to August 2023.
+- And data from January 2024 to 31st December 2024.
 
 ## 🛠️ Solution
 
 We developed an ARIMA-based forecasting system that enables accurate prediction of logistics demand, helping IDL optimize their operations.
 We also developed a protocol to cleaning and stablizing the high variance and trend difference that IDL Logstics have to acchive stationarity for predictions.
-We have acchieve
-Below you will find our predictions 
+
+The final solution metrics were:
+- RMSE: 822.83
+- RMSE Percentage: 16.85%
+
+Below you will find our predictions:
 
 <img src="Final%20IDL%20predictions%20fit.png" alt="IDL predictions">
 
 ### Key Features
+- Optimal outlier trimming parameter
 - Time series analysis using ARIMA modeling
-- Interactive dashboards for visualizing predictions
-- Anomaly detection for unusual demand patterns
-- [Other key features you implemented]
 
 ## 📊 Data Analysis Process
 
