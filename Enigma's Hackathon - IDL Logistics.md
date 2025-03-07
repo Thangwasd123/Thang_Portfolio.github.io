@@ -37,7 +37,7 @@ We also developed a protocol to cleaning and stablizing the high variance and tr
 
 ## 📊 Data Analysis Process
 
-### 1. Data Exploration
+### 1. Data Preparation & Exploration
 - Initial dataset characteristics:
 
   **The dataset contains 15 columns with diverse data concerning date of orders, pcs of orders, and delivered pcs, etc.**
@@ -65,24 +65,23 @@ We also developed a protocol to cleaning and stablizing the high variance and tr
   -> We are now confident that we have a complete dataset to begin performing addtional exploratory work on.
 
 - Histogram plot
+  <img src="IDL%20-%20Histogram%20of%20dataset.png" alt="Histogram plot of dataset">
+  -> It became clear to us that the general distribution is between 3000 -> 9.000
+
+- Diving a bit deeper, we wanted to see how many days are there with orders above 9000 to confirm that we can single them out as outlier.
+  <img src="IDL%20-%20Outlier%20Identification.png" alt="scatter plot of outliers">
+  -> We can confirm now that there are only a couple of days that has abnormal low sales or high sales due to Q4 or just an technical issue in data system.
+  
+- Next, to learn more about the dataset, 
 
   
 - Features Target relationship box plot
 
-### 2. Data Preprocessing
-- Handling missing values
-- Normalizing time series data
-- Feature engineering
 
-### 3. Model Development
+### 2. Model Development
 - ARIMA parameter tuning
 - Validation methodology
 - Comparison with baseline models
-
-### 4. Implementation
-- Integration with existing systems
-- Deployment approach
-- Monitoring mechanisms
 
 ## 📈 Results & Impact
 
