@@ -21,8 +21,8 @@ When I'm not wrangling datasets or building models, you'll find me embracing the
 - 💪 **Iron Therapy** - Dedicated to lifting weights that make most people question my sanity. The heavier, the better. There's no problem that can't be solved with a proper deadlift session.
 
 - 🎮 **Mechanical & Digital Art** - Meticulous Gunpla builder by night and devoted Hideo Kojima universe explorer. Because sometimes the best way to unwind from complex algorithms is with equally complex narrative mind-bends.
-
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thangwasd123&layout=compact&theme=radical" alt="Top Languages" />
 </p>
@@ -61,11 +61,11 @@ When I'm not wrangling datasets or building models, you'll find me embracing the
 <summary><b>Data Analyst/Data Engineer | The Brand Lab B.V.</b> (Aug 2023 - Present)</summary>
 <br>
 
-- 🏗️ Architected ETL pipelines using AWS (Lambda, RDS, S3) and GCP, achieving **100% faster** data processing
-- 📦 Built automated inventory management system with **100% time efficiency** gains
-- 📊 Created analytics dashboards using Hex for sales ranking and marketplace performance insights
-- 🖼️ Optimized image processing pipeline using AWS S3 Boto API, reducing processing time by **100%**
-- 📈 Performed analysis on advertising and financial data to create actionable insights
+<li> 🏗️ Architected ETL pipelines using AWS (Lambda, RDS, S3) and GCP, achieving **100% faster** data processing</li>
+<li>📦 Built automated inventory management system with **100% time efficiency** gains</li>
+<li>📊 Created analytics dashboards using Hex for sales ranking and marketplace performance insights</li>
+<li>🖼️ Optimized image processing pipeline using AWS S3 Boto API, reducing processing time by **100%**</li>
+<li>📈 Performed analysis on advertising and financial data to create actionable insights</li>
 
 </details>
 
