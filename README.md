@@ -87,7 +87,7 @@
       </p>
       <p align="center">
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Project"/>
+          <img src="https://img.shields.io/badge/Coming_Soon-808080?style=for-the-badge&logo=github&logoColor=white" alt="Coming Soon"/>
         </a>
       </p>
     </td>
