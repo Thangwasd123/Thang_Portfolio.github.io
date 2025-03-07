@@ -5,10 +5,17 @@ This project was developed during the Enigma Hackathon, where our team created a
 
 ## 🏆 Challenge
 <img src="IDL%20Logo.png" alt="IDL Logo" width="300">
-IDL Logistics is a logistics forwarder company with over 20 years of experiences. Being a logistics forwarder, meaning their business involve with a lot of fulfillment works. This can range anything from just a small one box order, to a big multi pallets, multi boxes orders. The human resources planning therefore is incredibly important to IDL Logistics
+IDL Logistics is a logistics forwarder company with over 20 years of experiences. Being a logistics forwarder, meaning their business involve with a lot of fulfillment works. This can range anything from just a small one box order, to a big multi pallets, multi boxes orders. The human resources planning therefore is incredibly important to IDL Logistics operations. 
+
+The challenge therefore was to create a prediction pipeline that forecasts how many orders IDL Logistics will receive in a given period.
+
 ## 🛠️ Solution
 
 We developed an ARIMA-based forecasting system that enables accurate prediction of logistics demand, helping IDL optimize their operations.
+We also developed a protocol to cleaning and stablizing the high variance and trend difference that IDL Logstics have to acchive stationarity for predictions.
+We have acchieve
+Below you will find our predictions 
+<img src="Final%IDL%predictions%fit.png" alt="IDL predictions" width="300">
 
 ### Key Features
 - Time series analysis using ARIMA modeling
