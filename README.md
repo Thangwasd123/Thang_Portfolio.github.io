@@ -1,9 +1,9 @@
-# Thang Le <img src="hand.gif" alt="Waving Hand" width="25" height="25" />
+<h1> Thang Le <img src="hand.gif" alt="Waving Hand" width="25" height="25" /></h1>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thang-le-cong/)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lethang031200@gmail.com)
 
-## 📊 Data Science & Data Engineering Portfolio
+<h2> 📊 Data Science & Data Engineering Portfolio</h2>
 
 > "To create something, anything for a living is a blessing."
 <p>
@@ -27,7 +27,7 @@ When I'm not wrangling datasets or building models, you'll find me embracing the
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thangwasd123&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 🎓 Education
+<h3> 🎓 Education</h3>
 
 <details open>
 <summary><b>Academic Qualifications</b></summary>
@@ -55,7 +55,7 @@ When I'm not wrangling datasets or building models, you'll find me embracing the
 </table>
 </details>
 
-## 💼 Professional Experience
+<h3> 💼 Professional Experience</h3>
 
 <details open>
 <summary><b>Data Science/Data Engineer | The Brand Lab B.V.</b> (Aug 2023 - Present)</summary>
@@ -69,7 +69,7 @@ When I'm not wrangling datasets or building models, you'll find me embracing the
 
 </details>
 
-## 🚀 Projects
+<h3>🚀 Projects </h3>
 
 <div align="center">
 
@@ -151,7 +151,7 @@ When I'm not wrangling datasets or building models, you'll find me embracing the
 </table>
 </div>
 
-## 🛠️ Technical Skills
+<h3> 🛠️ Technical Skills</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -162,7 +162,7 @@ When I'm not wrangling datasets or building models, you'll find me embracing the
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
 </p>
 
-### Frameworks & Libraries
+<h3> Frameworks & Libraries</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Prophet-00A6D6?style=for-the-badge&logo=meta&logoColor=white" alt="Prophet" />
   <img src="https://img.shields.io/badge/XGBoost-76B900?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
@@ -172,7 +172,7 @@ When I'm not wrangling datasets or building models, you'll find me embracing the
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
-### Cloud & Tools
+<h3> Cloud & Tools </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Lambda" />
   <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" />
@@ -181,7 +181,7 @@ When I'm not wrangling datasets or building models, you'll find me embracing the
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 📫 Let's Connect!
+<h2> 📫 Let's Connect!</h2>
 
 <p align="center">
   <a href="mailto:lethang031200@gmail.com">
