@@ -34,7 +34,8 @@ Here you'll find a collection of my data science and engineering projects. Each 
 ### Featured Projects:
 
 1. **Bol.com Demand Planning System**
-   - Implemented XGBoost for product demand prediction
+   - Implemented Prophet, XGBoost for product demand prediction
+   - Implemented ARIMA, SARIMA to predict demand
    - Utilized ranking keywords as trend and seasonality indicators
    - Built interactive dashboards with Hex
    - _[Link to project coming soon]_
@@ -43,7 +44,7 @@ Here you'll find a collection of my data science and engineering projects. Each 
    - Developed ARIMA models for logistics demand forecasting
    - Collaborated with IDL Logistics to optimize supply chain operations
    - _[Link to project coming soon]_
-
+     
 _More projects to be added soon!_
 
 ## 🛠️ Technical Skills
@@ -52,7 +53,7 @@ _More projects to be added soon!_
 Python, MySQL, PostgreSQL, JavaScript
 
 ### Frameworks & Libraries
-Prophet, XGBoost, Scikit-learn, Pandas, NumPy, ARIMA
+Prophet, XGBoost, Scikit-learn, Pandas, NumPy, ARIMA, SARIMA, Tensor Flow, K-Nearest-Neighbor
 
 ### Cloud & Tools
 AWS (Lambda, S3, RDS), Google Cloud, Hashicorp Vault, Boto3, Git
