@@ -61,10 +61,10 @@ When I'm not wrangling datasets or building models, you'll find me embracing the
 <summary><b>Data Analyst/Data Engineer | The Brand Lab B.V.</b> (Aug 2023 - Present)</summary>
 <br>
 
-<li> 🏗️ Architected ETL pipelines using AWS (Lambda, RDS, S3) and GCP, achieving **100% faster** data processing</li>
-<li>📦 Built automated inventory management system with **100% time efficiency** gains</li>
+<li> 🏗️ Architected ETL pipelines using AWS (Lambda, RDS, S3) and GCP, achieving <b>100% faster</b> data processing</li>
+<li>📦 Built automated inventory management system with <b>100% time efficiency</b> gains</li>
 <li>📊 Created analytics dashboards using Hex for sales ranking and marketplace performance insights</li>
-<li>🖼️ Optimized image processing pipeline using AWS S3 Boto API, reducing processing time by **100%**</li>
+<li>🖼️ Optimized image processing pipeline using AWS S3 Boto API, reducing processing time by <b>100%</b></li>
 <li>📈 Performed analysis on advertising and financial data to create actionable insights</li>
 
 </details>
