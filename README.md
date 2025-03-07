@@ -5,7 +5,7 @@
 
 ## 📊 Data Science & Data Engineering Portfolio
 
-> "Transforming raw data into actionable business insights through innovative analytics solutions."
+> "To create something, anything for a living is a blessing."
 
 I'm a Data Science and Engineering Master's student based in Rotterdam, Netherlands, with a passion for building scalable data solutions. My expertise spans predictive modeling, cloud architecture, and translating complex data into business value.
 
