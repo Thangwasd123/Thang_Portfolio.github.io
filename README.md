@@ -58,7 +58,7 @@ When I'm not wrangling datasets or building models, you'll find me embracing the
 ## 💼 Professional Experience
 
 <details open>
-<summary><b>Data Analyst/Data Engineer | The Brand Lab B.V.</b> (Aug 2023 - Present)</summary>
+<summary><b>Data Science/Data Engineer | The Brand Lab B.V.</b> (Aug 2023 - Present)</summary>
 <br>
 
 <li> 🏗️ Architected ETL pipelines using AWS (Lambda, RDS, S3) and GCP, achieving <b>100% faster</b> data processing</li>
