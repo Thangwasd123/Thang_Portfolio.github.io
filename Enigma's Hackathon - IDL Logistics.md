@@ -78,7 +78,16 @@ We also developed a protocol to cleaning and stablizing the high variance and tr
 
   **Box plot of day of week**
   <img src="IDL%20-%20Boxplot%20by%20day%20of%20week.png" alt="Box Plot by day of week">
-  
+
+  **Box plot by month**
+  <img src="IDL%20-%20Boxplot%20by%20month.png" alt="Box Plot by month">
+
+  **Box plot by quarter**
+  <img src="IDL%20-%20Boxplot%20by%20quarter.png" alt="Box Plot by quarter">
+
+  **Box plot by year**
+  <img src="IDL%20-%20Boxplot%20by%20year.png" alt="Box Plot by year">
+
 - Features Target relationship box plot
 
 
