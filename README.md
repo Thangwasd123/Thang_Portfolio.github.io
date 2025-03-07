@@ -15,9 +15,8 @@
 
 
 <div align="right" class="desktop-only" style="float: right; margin: 0 0 20px 20px;">
-  <img src="./assets/Mallorca%20Gif.gif" width="300" height="auto">
+  <img src="Mallorca%20Gif.gif" width="300" height="auto">
 </div>
-<img src="./assets/Mallorca%20Gif.gif" width="300" height="auto">
 
 <p>
 <h4>🔥 Life Beyond the Data</h4>
