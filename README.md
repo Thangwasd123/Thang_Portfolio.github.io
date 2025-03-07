@@ -6,35 +6,24 @@
 <h2> 📊 Data Science & Data Engineering Portfolio</h2>
 
 > "To create something, anything for a living is a blessing."
-<p>
+
 <p>I'm a Data Science and Engineering Master's student based in Rotterdam, Netherlands, with a passion for building scalable data solutions. My expertise spans predictive modeling, cloud architecture, and translating complex data into business value. I'm always busy and curious for new projects and how I can keep on learning and creating cool stuffs!</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thangwasd123&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<h4>🔥 Life Beyond the Data</h4>
 
 <img src="Mallorca Gif.gif" width="300" height="auto" align="right">
 
-<h4>🔥 Life Beyond the Data</h4>
+<p>When I'm not wrangling datasets or building models, you'll find me embracing the quintessential tech bro lifestyle with these obsessions:</p>
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1; padding-right: 20px;">
-    When I'm not wrangling datasets or building models, you'll find me embracing the quintessential tech bro lifestyle with these obsessions:
+<li>🧗‍♂️ <b>Conquering Gravity</b> - Addicted to bouldering with a particular weakness for deep water soloing. Nothing beats the rush of climbing sea cliffs with only the ocean below. Always hunting for fellow climbers brave enough to join.</li>
+<li>🏃‍♂️ <b>Chasing Horizons</b> - Avid runner with battle scars to prove it. Got sidelined from the 2025 NN Rotterdam Marathon, but already plotting my comeback for 2026. The road always calls back.</li>
+<li>💪 <b>Iron Therapy</b> - Dedicated to lifting weights that make most people question my sanity. The heavier, the better. There's no problem that can't be solved with a proper deadlift session.</li>
+<li>🎮 <b>Mechanical & Digital Art</b> - Meticulous Gunpla builder by night and devoted Hideo Kojima universe explorer. Because sometimes the best way to unwind from complex algorithms is with equally complex narrative mind-bends.</li>
 
-    - 🧗‍♂️ **Conquering Gravity** - Addicted to bouldering with a particular weakness for deep water soloing. Nothing beats the rush of climbing sea cliffs with only the ocean below. Always hunting for fellow climbers brave enough to join.
-
-    - 🏃‍♂️ **Chasing Horizons** - Avid runner with battle scars to prove it. Got sidelined from the 2025 NN Rotterdam Marathon, but already plotting my comeback for 2026. The road always calls back.
-
-    - 💪 **Iron Therapy** - Dedicated to lifting weights that make most people question my sanity. The heavier, the better. There's no problem that can't be solved with a proper deadlift session.
-
-    - 🎮 **Mechanical & Digital Art** - Meticulous Gunpla builder by night and devoted Hideo Kojima universe explorer. Because sometimes the best way to unwind from complex algorithms is with equally complex narrative mind-bends.
-  </div>
-  <div>
-    <img src="MallorcaGif.gif" width="300" height="auto">
-  </div>
-</div>
-<div>
 <h3> 🎓 Education</h3>
 
 <details open>
@@ -62,7 +51,7 @@
   </tr>
 </table>
 </details>
-</div>
+
 <h3> 💼 Professional Experience</h3>
 
 <details open>
@@ -80,8 +69,6 @@
 <h3>🚀 Projects </h3>
 
 <div align="center">
-
-<!-- PROJECT CARD TEMPLATE -->
 <table>
   <tr>
     <td width="50%">
