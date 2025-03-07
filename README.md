@@ -7,7 +7,7 @@
 
 > "To create something, anything for a living is a blessing."
 
-<p>I'm a Data Science and Engineering Master's student based in Rotterdam, Netherlands, with a passion for building scalable data solutions. My expertise spans predictive modeling, cloud architecture, and translating complex data into business value. I'm always busy and curious for new projects and how I can keep on learning and creating cool stuffs!</p>
+<p>I'm a Data Science and Engineering Master's student based in Rotterdam, Netherlands, with a passion for building scalable data solutions. Even though my bachelor was in communication, my heart and curiousity has always yearn to data science, data architecture and how to deliver values to business through data. My expertise spans predictive modeling, cloud architecture, and translating complex data into business value. I'm always busy and curious for new projects and how I can keep on learning and creating cool stuffs!</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thangwasd123&layout=compact&theme=radical" alt="Top Languages" />
