@@ -14,20 +14,20 @@ IDL Logistics is a logistics forwarder company with over 20 years of experiences
 
 The challenge therefore was to create a prediction pipeline that forecasts how many orders IDL Logistics will receive in a given period. We were given 12 hours to work on this project.
 
-The dataset contains:
+**The dataset contains:**
 - 2 years of data from July 2022 to August 2023.
 - And data from January 2024 to 31st December 2024.
 
 ## 🛠️ Solution
 
-We developed an ARIMA-based forecasting system that enables accurate prediction of logistics demand, helping IDL optimize their operations.
+We as a team (Yash, Yashar and me - Thang)  developed an ARIMA-based forecasting system that enables accurate prediction of logistics demand, helping IDL optimize their operations.
 We also developed a protocol to cleaning and stablizing the high variance and trend difference that IDL Logstics have to acchive stationarity for predictions.
 
-The final solution metrics were:
-- RMSE: 822.83
-- RMSE Percentage: 16.85%
+**The final solution metrics were:**
+- **RMSE: 822.83**
+- **RMSE Percentage: 16.85%**
 
-Below you will find our predictions:
+**Below is our predictions:**
 
 <img src="Final%20IDL%20predictions%20fit.png" alt="IDL predictions">
 
@@ -39,6 +39,7 @@ Below you will find our predictions:
 
 ### 1. Data Exploration
 - Initial dataset characteristics
+  
 - Identified seasonality and trend patterns
 - Correlation analysis with external factors
 
