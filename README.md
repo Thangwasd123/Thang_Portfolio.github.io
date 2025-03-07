@@ -10,7 +10,7 @@
 <p>I'm a Data Science and Engineering Master's student based in Rotterdam, Netherlands, with a passion for building scalable data solutions. My expertise spans predictive modeling, cloud architecture, and translating complex data into business value. I'm always busy and curious for new projects and how I can keep on learning and creating cool stuffs!</p>
 
 <p>
-🔥 Life Beyond the Data
+<h4>🔥 Life Beyond the Data</h4>
 
 When I'm not wrangling datasets or building models, you'll find me embracing the quintessential tech bro lifestyle with these obsessions:
 
