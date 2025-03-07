@@ -20,9 +20,9 @@ I'm a Data Science and Engineering Master's student based in Rotterdam, Netherla
 <br>
 
 | Program | Institution | Period | Highlights |
-|---------|-------------|--------|------------|
-| **Pre-Master Data Science and Society** | Tilburg University | Jan 2025 - Present | • Hackathon Masters: Health Tech<br>• Enigma's Hackathon: Logistics demand prediction |
-| **Bachelor of Arts in Communication** | Han University of Applied Science | Sep 2018 - July 2022 | • Honor Scholarship Recipient |
+| ------- | ----------- | ------ | ---------- |
+| Pre-Master Data Science and Society | Tilburg University | Jan 2025 - Present | • Hackathon Masters: Health Tech<br>• Enigma's Hackathon: Logistics demand prediction |
+| Bachelor of Arts in Communication | Han University of Applied Science | Sep 2018 - July 2022 | • Honor Scholarship Recipient |
 
 </details>
 
