@@ -61,9 +61,13 @@ We also developed a protocol to cleaning and stablizing the high variance and tr
 
   **The plot of the dataset with interpolation.**
   <img src="IDL%20-%20Final%20Dataset%20plot%20post%20interpolation.png" alt="Interpolation plot of dataset">
+  
+  -> We are now confident that we have a complete dataset to begin performing addtional exploratory work on.
 
-- Identified seasonality and trend patterns
-- Correlation analysis with external factors
+- Histogram plot
+
+  
+- Features Target relationship box plot
 
 ### 2. Data Preprocessing
 - Handling missing values
