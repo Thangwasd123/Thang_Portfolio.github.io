@@ -19,16 +19,22 @@
 <p>
 <h4>🔥 Life Beyond the Data</h4>
 
-When I'm not wrangling datasets or building models, you'll find me fallen victim to the tech bro lifestyle with these obsessions:
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px;">
+    When I'm not wrangling datasets or building models, you'll find me embracing the quintessential tech bro lifestyle with these obsessions:
 
-<li>🧗‍♂️ <b>Conquering Gravity</b> - Addicted to bouldering with a particular weakness for deep water soloing. Nothing beats the rush of climbing sea cliffs with only the ocean below. Always hunting for fellow climbers brave enough to join.</li>
+    - 🧗‍♂️ **Conquering Gravity** - Addicted to bouldering with a particular weakness for deep water soloing. Nothing beats the rush of climbing sea cliffs with only the ocean below. Always hunting for fellow climbers brave enough to join.
 
-<li>🏃‍♂️ <b>Chasing Horizons</b> - Avid runner with battle scars to prove it. Got sidelined from the 2025 NN Rotterdam Marathon, but already plotting my comeback for 2026. The road always calls back.</li>
+    - 🏃‍♂️ **Chasing Horizons** - Avid runner with battle scars to prove it. Got sidelined from the 2025 NN Rotterdam Marathon, but already plotting my comeback for 2026. The road always calls back.
 
-<li>💪 <b>Iron Therapy</b> - Dedicated to lifting weights that make most people question my sanity. The heavier, the better. There's no problem that can't be solved with a proper back session.</li>
+    - 💪 **Iron Therapy** - Dedicated to lifting weights that make most people question my sanity. The heavier, the better. There's no problem that can't be solved with a proper deadlift session.
 
-<li>🎮 <b>Mechanical & Digital Art</b> - Meticulous Gunpla builder by night and devoted Hideo Kojima universe explorer. Because sometimes the best way to unwind from complex algorithms is with equally complex narrative mind-bends.</li>
-</p>
+    - 🎮 **Mechanical & Digital Art** - Meticulous Gunpla builder by night and devoted Hideo Kojima universe explorer. Because sometimes the best way to unwind from complex algorithms is with equally complex narrative mind-bends.
+  </div>
+  <div>
+    <img src="MallorcaGif.gif" width="300" height="auto">
+  </div>
+</div>
 
 <h3> 🎓 Education</h3>
 
