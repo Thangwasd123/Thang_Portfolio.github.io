@@ -15,7 +15,8 @@ We developed an ARIMA-based forecasting system that enables accurate prediction 
 We also developed a protocol to cleaning and stablizing the high variance and trend difference that IDL Logstics have to acchive stationarity for predictions.
 We have acchieve
 Below you will find our predictions 
-<img src="Final%IDL%predictions%fit.png" alt="IDL predictions" width="300">
+
+<img src="Final%20IDL%20predictions%20fit.png" alt="IDL predictions" width="300">
 
 ### Key Features
 - Time series analysis using ARIMA modeling
