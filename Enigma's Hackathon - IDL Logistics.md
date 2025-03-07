@@ -5,8 +5,8 @@ This project was developed during the Enigma Hackathon, where our team created a
 
 ## 🏆 Challenge
 
-[Brief description of the hackathon challenge/problem statement - fill in details about what IDL Logistics needed]
 
+IDL Logistics is a logistics forwarder company with over 20 years of experiences. Being a logistics forwarder, meaning their business involve with a lot of fulfillment works. This can range anything from just a small one box order, to a big multi pallets, multi boxes orders. The human resources planning therefore is incredibly important to IDL Logistics
 ## 🛠️ Solution
 
 We developed an ARIMA-based forecasting system that enables accurate prediction of logistics demand, helping IDL optimize their operations.
