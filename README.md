@@ -9,6 +9,10 @@
 <p>
 <p>I'm a Data Science and Engineering Master's student based in Rotterdam, Netherlands, with a passion for building scalable data solutions. My expertise spans predictive modeling, cloud architecture, and translating complex data into business value. I'm always busy and curious for new projects and how I can keep on learning and creating cool stuffs!</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thangwasd123&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 <p>
 <h4>🔥 Life Beyond the Data</h4>
 
@@ -21,10 +25,6 @@ When I'm not wrangling datasets or building models, you'll find me fallen victim
 <li>💪 <b>Iron Therapy</b> - Dedicated to lifting weights that make most people question my sanity. The heavier, the better. There's no problem that can't be solved with a proper back session.</li>
 
 <li>🎮 <b>Mechanical & Digital Art</b> - Meticulous Gunpla builder by night and devoted Hideo Kojima universe explorer. Because sometimes the best way to unwind from complex algorithms is with equally complex narrative mind-bends.</li>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thangwasd123&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <h3> 🎓 Education</h3>
