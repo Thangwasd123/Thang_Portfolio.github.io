@@ -77,7 +77,7 @@ We also developed a protocol to cleaning and stablizing the high variance and tr
   <img src="IDL%20-%20Boxplot%20by%20day%20of%20year.png" alt="Box Plot by day of years">
 
   **Box plot of day of week**
-  <img src="IDL%20-%20Boxplot%20by%20day%20of%20week.png" alt="Box Plot by day of week">
+  <img src="IDL%20-%20Boxplot%20day%20of%20week.png" alt="Box Plot by day of week">
 
   **Box plot by month**
   <img src="IDL%20-%20Boxplot%20by%20month.png" alt="Box Plot by month">
@@ -95,7 +95,7 @@ Final verdict, the dataset is riddled with outliers, and we deicided to trim agr
 ### 2. Model Development
 - Baseline model Initiation -> Random Walk model.
   We first initated the random walk model:
-  <img src="Random%20Walk%20Model.png" alt="Random Walk Model">
+  <img src="IDL%20-%20Random%20Walk%20Model.png" alt="Random Walk Model">
   **-> The model provided an RMSE of 1039.05**
   
 - ARIMA parameter tuning
