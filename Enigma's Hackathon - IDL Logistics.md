@@ -1,8 +1,3 @@
----
-layout: default
-title: Enigma's Hackathon - IDL Logistics
----
-
 # Enigma Hackathon: Time Series Demand Planning for IDL Logistics
 
 ## Overview
