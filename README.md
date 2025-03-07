@@ -34,7 +34,7 @@
     <img src="MallorcaGif.gif" width="300" height="auto">
   </div>
 </div>
-
+<div>
 <h3> 🎓 Education</h3>
 
 <details open>
@@ -62,7 +62,7 @@
   </tr>
 </table>
 </details>
-
+</div>
 <h3> 💼 Professional Experience</h3>
 
 <details open>
