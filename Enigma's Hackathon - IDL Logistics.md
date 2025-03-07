@@ -88,11 +88,19 @@ We also developed a protocol to cleaning and stablizing the high variance and tr
   **Box plot by year**
   <img src="IDL%20-%20Boxplot%20by%20year.png" alt="Box Plot by year">
 
-- Features Target relationship box plot
+  -> Immediate observation is there seems to be an increase of sales toward the end of the year in Q4 as there's more sales days, more sales intention.
 
+Final verdict, the dataset is riddled with outliers, and we deicided to trim agressively to make the model prediction reliable 🏔. -> 3000 -> 9000 orders day will be the final range.
 
 ### 2. Model Development
+- Baseline model Initiation -> Random Walk model.
+  We first initated the random walk model:
+  <img src="Random%20Walk%20Model.png" alt="Random Walk Model">
+  **-> The model provided an RMSE of 1039.05**
+  
 - ARIMA parameter tuning
+  
+  
 - Validation methodology
 - Comparison with baseline models
 
