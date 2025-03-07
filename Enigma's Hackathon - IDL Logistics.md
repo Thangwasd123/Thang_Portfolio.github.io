@@ -62,18 +62,22 @@ We also developed a protocol to cleaning and stablizing the high variance and tr
   **The plot of the dataset with interpolation.**
   <img src="IDL%20-%20Final%20Dataset%20plot%20post%20interpolation.png" alt="Interpolation plot of dataset">
   
-  -> We are now confident that we have a complete dataset to begin performing addtional exploratory work on.
+  **-> We are now confident that we have a complete dataset to begin performing addtional exploratory work on.**
 
 - Histogram plot
   <img src="IDL%20-%20Histogram%20of%20dataset.png" alt="Histogram plot of dataset">
-  -> It became clear to us that the general distribution is between 3000 -> 9.000
+  **-> It became clear to us that the general distribution is between 3000 -> 9.000**
 
 - Diving a bit deeper, we wanted to see how many days are there with orders above 9000 to confirm that we can single them out as outlier.
   <img src="IDL%20-%20Outlier%20Identification.png" alt="scatter plot of outliers">
-  -> We can confirm now that there are only a couple of days that has abnormal low sales or high sales due to Q4 or just an technical issue in data system.
+  **-> We can confirm now that there are only a couple of days that has abnormal low sales or high sales due to Q4 or just an technical issue in data system.**
   
-- Next, to learn more about the dataset, 
+- Next, to learn more about the dataset, we needed to lean about the seasonality of the dataset.
+  **Box plot of days of year**
+  <img src="IDL%20-%20Boxplot%20by%20day%20of%20year.png" alt="Box Plot by day of years">
 
+  **Box plot of day of week**
+  <img src="IDL%20-%20Boxplot%20by%20day%20of%20week.png" alt="Box Plot by day of week">
   
 - Features Target relationship box plot
 
