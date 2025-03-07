@@ -13,6 +13,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thangwasd123&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+
+<div align="right" class="desktop-only" style="float: right; margin: 0 0 20px 20px;">
+  <img src="./assets/Mallorca%20Gif.gif" width="300" height="auto">
+</div>
+
 <p>
 <h4>🔥 Life Beyond the Data</h4>
 
