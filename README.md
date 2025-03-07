@@ -43,7 +43,7 @@ Here you'll find a collection of my data science and engineering projects. Each 
 2. **Time Series Demand Planning (Enigma Hackathon)**
    - Developed ARIMA models for logistics demand forecasting
    - Collaborated with IDL Logistics to optimize supply chain operations
-   - _[Link to project coming soon]_
+   - Link to this project: [Enigma's Hackathon - IDL Logistics](Enigma's%20Hackathon%20-%20IDL%20Logistics.md)
 
 3. **42 Engineering Project - Time Series Demand Planning for Retailers**
    - Developed ARIMA model, SARIMA for demand forecasting
