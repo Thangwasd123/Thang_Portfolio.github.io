@@ -44,7 +44,11 @@ Here you'll find a collection of my data science and engineering projects. Each 
    - Developed ARIMA models for logistics demand forecasting
    - Collaborated with IDL Logistics to optimize supply chain operations
    - _[Link to project coming soon]_
-     
+
+3. **42 Engineering Project - Time Series Demand Planning for Retailers**
+   - Developed ARIMA model, SARIMA for demand forecasting
+   - Collaborated with The Brand Lab and other clients to enhance inventory purchasing operation for small to medium size businesses.
+   - _[Link to project coming soon]_
 _More projects to be added soon!_
 
 ## 🛠️ Technical Skills
