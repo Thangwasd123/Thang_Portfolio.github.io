@@ -38,8 +38,21 @@ We also developed a protocol to cleaning and stablizing the high variance and tr
 ## 📊 Data Analysis Process
 
 ### 1. Data Exploration
-- Initial dataset characteristics
+- Initial dataset characteristics:
+  The dataset contains 15 columns with diverse data concerning date of orders, pcs of orders, and delivered pcs, etc.
   
+  <img src="IDL%20Dataset.png" alt="IDL Dataset Table">
+
+  After multiple plotting and decision making, we decided that the best two variables to proceed with are:
+    - Interface Date (Order Date in laymen term) as feature.
+    - Ordered Pce's (Ordered Pcs in a single in laymen term) as target variable.
+
+  Therefore we performed columns dropping of all the unecessary columns:
+  <img src="IDL%20-%20Dropping%20Columns%20to%20lighten%20overhead%20Calculation.png" alt="IDL Columns Dropping">
+
+  We then concatenated the dataset, and below is the plot.
+
+ 
 - Identified seasonality and trend patterns
 - Correlation analysis with external factors
 
