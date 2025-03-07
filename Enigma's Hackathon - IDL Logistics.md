@@ -16,7 +16,7 @@ We also developed a protocol to cleaning and stablizing the high variance and tr
 We have acchieve
 Below you will find our predictions 
 
-<img src="Final%20IDL%20predictions%20fit.png" alt="IDL predictions" width="300">
+<img src="Final%20IDL%20predictions%20fit.png" alt="IDL predictions">
 
 ### Key Features
 - Time series analysis using ARIMA modeling
