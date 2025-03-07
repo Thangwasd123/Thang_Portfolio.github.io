@@ -4,8 +4,7 @@
 This project was developed during the Enigma Hackathon, where our team created a time series forecasting solution for IDL Logistics to predict and optimize supply chain demand.
 
 ## 🏆 Challenge
-![IDL Logo](IDL%20Logo.png)
-
+<img src="IDL%20Logo.png" alt="IDL Logo" width="300">
 IDL Logistics is a logistics forwarder company with over 20 years of experiences. Being a logistics forwarder, meaning their business involve with a lot of fulfillment works. This can range anything from just a small one box order, to a big multi pallets, multi boxes orders. The human resources planning therefore is incredibly important to IDL Logistics
 ## 🛠️ Solution
 
