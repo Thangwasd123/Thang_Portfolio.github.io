@@ -1,6 +1,6 @@
 # Automated Inventory Management ETL System | The Brand Lab B.V.
 
-<img src="./Voomy V.png" alt="Top Languages" />
+<img src="./Voomy V.png" alt="Voomy Logo" width = 200 />
 ## Overview
 At The Brand Lab B.V., I designed and implemented a comprehensive ETL (Extract, Transform, Load) pipeline for inventory management, resulting in significant operational improvements and elimination of stock-outs. This system automated data processing from multiple sources, optimized inventory levels, and provided actionable insights through custom dashboards.
 
