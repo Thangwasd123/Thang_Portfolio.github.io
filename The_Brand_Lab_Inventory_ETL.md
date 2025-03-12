@@ -21,7 +21,7 @@ The solution was built using a modern cloud architecture:
 ### Components:
 
 1. **Data Extraction Layer**
-   - Integrated with multiple marketplace APIs (Bol.com, Amazon, etc.)
+   - Integrated with multiple marketplace APIs (Bol.com, Amazon, etc.) using various product id, which was concatenated using a separate database.
    - Automated data collection from warehouse management systems
    - Real-time inventory level monitoring
 
@@ -49,7 +49,7 @@ The solution was built using a modern cloud architecture:
 
 ### Languages & Frameworks
 - Python for ETL processes and data manipulation
-- SQL for database operations and complex queries
+- PostgresSQL for database operations and complex queries
 - AWS SDK (Boto3) for cloud resource management
 
 ### Cloud Infrastructure
@@ -85,7 +85,7 @@ The solution was built using a modern cloud architecture:
 ## 📈 Methodology & Process
 
 1. **Requirements Analysis**
-   - Stakeholder interviews to understand business needs
+   - Check in with founders for deliverables requirements.
    - System audit to identify inefficiencies and bottlenecks
 
 2. **Solution Design**
