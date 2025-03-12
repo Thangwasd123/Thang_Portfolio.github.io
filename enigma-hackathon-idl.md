@@ -1,3 +1,7 @@
+---
+layout: default
+title: Enigma Hackathon - Time Series Demand Planning for IDL Logistics
+---
 [← Back to Portfolio](README.md)
 
 
