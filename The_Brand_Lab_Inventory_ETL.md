@@ -1,6 +1,6 @@
 # Automated Inventory Management ETL System | The Brand Lab B.V.
 
-<img src="./Voomy V.png" alt="Voomy Logo" width = 200 />
+<img src="images/Voomy V.png" alt="Voomy Logo" width = 200 />
 
 
 ## Overview
