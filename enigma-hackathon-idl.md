@@ -8,7 +8,7 @@ title: Enigma Hackathon - Time Series Demand Planning for IDL Logistics
 # Enigma Hackathon: Time Series Demand Planning for IDL Logistics
 
 ## Overview
-This project was developed during the Enigma Hackathon, where our team created a time series forecasting solution for IDL Logistics to predict and optimize supply chain demand.
+This project was developed during the Enigma Hackathon, where our team created a time series forecasting solution for IDL Logistics to predict and optimize supply chain demand. We won 2nd place in this Hackathon!
 
 ## 🏆 Challenge
 <img src="images/IDL%20Logo.png" alt="IDL Logo" width="300">
@@ -116,7 +116,7 @@ Final verdict, the dataset is riddled with outliers, and we deicided to trim agr
 ## 📈 Results & Impact
 
 - The model had a really close RMSE of only 16%, this is really impressive given that we only had less than 2 years of data and had interpolate 4 months.
-- We are still awaiting on IDL's feedback on this project.
+- We won 2nd place on this Hackathon.
 
 ## 🔍 Technical Details
 
@@ -139,7 +139,7 @@ Final verdict, the dataset is riddled with outliers, and we deicided to trim agr
    - Conduct PACF and ACF properly, which will inform us more over our pdq selection. As 80, 1, 40 seemed really high for a model.
    - We could have used SARIMA, which might given us even better metrics in this scenario.
    - I will revisit this project in the future to see if there's a better method to do this.
-- Additionally, 
+- Additionally, do groupby month to imporve RMSE.
 ---
 
 *This project was completed as part of the Enigma Hackathon in [Feb/2025]*
