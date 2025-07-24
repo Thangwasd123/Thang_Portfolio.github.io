@@ -1,6 +1,6 @@
 # Transaction Anomaly Detection
 
-A comprehensive machine learning project for detecting anomalous transactions using multiple unsupervised learning approaches.
+A comprehensive machine learning project for detecting anomalous transactions using multiple unsupervised learning approaches. This project was provided to me via Van Lanschot Kempen as a case study day in EBT University day 2025.
 
 ## Project Overview
 
@@ -46,12 +46,3 @@ The project successfully identifies approximately 100 anomalous transactions fro
 - Leverages Apple Silicon GPU acceleration for neural network training
 - Optimized hyperparameters for balanced anomaly detection (targeting ~0.05% anomaly rate)
 - Efficient processing of high-dimensional transaction features
-
-## Getting Started
-
-1. Install required dependencies
-2. Load your transaction dataset
-3. Run the anomaly detection pipeline
-4. Visualize results using the provided plotting functions
-
-This project demonstrates the effectiveness of combining multiple approaches for robust anomaly detection in financial transaction data.
