@@ -33,7 +33,7 @@ This project implements and compares various anomaly detection algorithms on unl
 
 The project successfully identifies approximately 100 anomalous transactions from a dataset of ~200,000 transactions using optimized contamination parameters. Isolation Forest and Deep SVDD showed the most promising results for this dataset.
 
-![SVDD Results] (VLK-Fraud-Detection/images/SVDD.png)
+![SVDD Results] (Thang_Portfolio.github.io/VLK-Fraud-Detection/images/SVDD.png)
 ## Technical Stack
 
 - **Python 3.12**
